@@ -1,0 +1,57 @@
+internalName: cuicatec
+
+displayNames:
+  cux: Cuicatec
+  en: Cuicatec
+  es: Cuicateco 
+
+locale: cux
+
+locales: cux
+
+modes:
+  mobile-default: |
+    q w e r t y u i o p 
+    a s d f g h j k l ñ ʼ
+    z x c v b n m 
+  mobile-shift: |
+    Q W E R T Y U I O P 
+    A S D F G H J K L Ñ ʼ
+    Z X C V B N M 
+
+decimal: ','
+
+deadKeys:
+  iso-default: ["`"]
+  iso-shift: ["`"]
+
+longpress:
+  A: Á À Ä A̱ Æ Ɑ
+  E: É À Ë E̱ Ɛ
+  I: Í Ì Ï I̱̱
+  O: Ó Ò Ö O̱
+  U: Ú Ù Ü U̱
+  a: á à ä a̱ æ ɑ 
+  e: é à ë e̱ ɛ
+  i: í ì ï i̱̱
+  o: ó ò ö o̱
+  u: ú ù ü u̱
+
+styles:
+  tablet:
+    actions:
+      backspace: [1, right, fill]
+      enter: [2, right, fill]
+      shift: [3, both, fill]
+  phone:
+    actions:
+      shift: [3, left, fill]
+      backspace: [3, right, fill]
+
+#targets:
+#  android:
+#    minimumSdk: 21
+
+strings:
+  space: gaske
+  return: linnjámolsun
