@@ -1,0 +1,11 @@
+locales:
+  en:
+    name: Keyboard for Cuicatec
+    description: A test keyboard for Cuicatec.
+  es:
+    name: Teclado cuicateco
+    description: >-
+      Esto es un teclado diseñado para las varias propuestas ortográficas de la
+      lengua cuicateca.
+author: Francis M. Tyers
+email: ftyers@iu.edu
