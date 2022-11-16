@@ -3,16 +3,6 @@ displayNames:
   en: Cuicatec
   es: Cuicateco
 decimal: ','
-modes:
-  mobile:
-    default: |
-      q w e r t y u i o p 
-      a s d f g h j k l ñ ʼ
-      z x c v b n m 
-    shift: |
-      Q W E R T Y U I O P 
-      A S D F G H J K L Ñ ʼ
-      Z X C V B N M 
 longpress:
   A: Á À Ä A̱ Æ Ɑ
   E: É À Ë E̱ Ɛ
@@ -24,11 +14,7 @@ longpress:
   i: í ì ï i̱̱
   o: ó ò ö o̱
   u: ú ù ü u̱
-strings:
+keyNames:
   space: gaske
   return: linnjámolsun
-targets:
-  ios:
-    legacyName: cuicatec
-  android:
-    legacyName: cuicatec
+
