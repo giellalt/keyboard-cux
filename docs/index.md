@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Documentation for the Tepeuxila Cuicatec keyboards
 
 ## Layouts
